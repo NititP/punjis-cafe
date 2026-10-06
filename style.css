@@ -1,0 +1,8 @@
+body { margin: 0; font-family: Arial, sans-serif; background: #fdf6ec; color: #3b2a1a; }
+header { background: #2e7d32; color: white; text-align: center; padding: 24px; }
+nav a { color: white; margin: 0 10px; text-decoration: none; }
+section { max-width: 600px; margin: 24px auto; padding: 0 16px; }
+h2 { border-bottom: 2px solid #2e7d32; padding-bottom: 4px; }
+ul { list-style: none; padding: 0; }
+li { display: flex; justify-content: space-between; padding: 6px 0; }
+footer { text-align: center; padding: 16px; background: #eadbc8; }
