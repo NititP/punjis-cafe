@@ -1,10 +1,10 @@
 :root {
   --bg: #fdf6ec; --text: #3b2a1a; --card: #ffffff;
-  --accent: #6f4e37; --accent2: #d4a373; --soft: #eadbc8;
+  --accent: #2e7d32; --accent2: #d4a373; --soft: #eadbc8;
 }
 body.dark {
   --bg: #1e1814; --text: #f3e9dc; --card: #2b221c;
-  --accent: #d4a373; --accent2: #6f4e37; --soft: #3a2e26;
+  --accent: #d4a373; --accent2: #2e7d32; --soft: #3a2e26;
 }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
